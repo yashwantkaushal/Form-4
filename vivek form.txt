@@ -13,7 +13,7 @@
 <h3> NAME :-VIVEK CHAUHAN</h>
 <h3>FATHER NAME:-DAYARAM CHAUHAN</h3>   
 <h3>BRANCH:-C.S.E.</h3> 
-<h3> CONTECT NO.:-7081840610</h3>
+<h3> CONTECT NO.:-0000000000</h3>
 <h3> EMAIL :-vivekchauhan982000@gmail.com</h3>
 </hr>
 </list>
@@ -28,7 +28,7 @@ and ability to work well with <a.href="people html"> Experienced People</a></p>
 <h2><u> EDUCATIONAL DETAILS</h2></u>
 <table>
 <tr>
-<table border="1" cellpadding="20" cellspacing="10"><tr bgcolor="white">
+<table border="1" cellpadding="20" cellspacing="10"><tr bgcolor="#585858">
 <th>SR. NO.</th><th>EXAMINATION</th><th>BOARD/UNIVERSITY</th><th>YEAR</th><th>PERCENTAGE</th>
 </tr>
 <tr>
