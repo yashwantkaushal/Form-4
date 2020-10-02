@@ -1,6 +1,6 @@
 <!doctype html>
-<htnl>
-<hepd>
+<html>
+<head>
 <script> alert(" CLICK OK<>") </script>
 <title> MY FIRST WEB PAGE </title>
 <style>body{background-color:orange}</style>
