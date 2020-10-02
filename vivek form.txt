@@ -1,5 +1,5 @@
 <!doctype html>
-<htnl>
+<html>
 <hepd>
 <script> alert(" CLICK OK<>") </script>
 <title> MY FIRST WEB PAGE </title>
