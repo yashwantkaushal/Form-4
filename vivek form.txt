@@ -1,0 +1,72 @@
+<!doctype html>
+<htnl>
+<hepd>
+<script> alert(" CLICK OK<>") </script>
+<title> MY FIRST WEB PAGE </title>
+<style>body{background-color:orange}</style>
+<h1><u><center> RESUME</center></u></h1>
+<img src="vivek/v.jpg" align="right" height="180" width="200" border="1"/>
+<body>
+<hr>
+<h2><u> PERSONAL DETAILS</h2></u>
+<list>
+<h3> NAME :-VIVEK CHAUHAN</h>
+<h3>FATHER NAME:-DAYARAM CHAUHAN</h3>   
+<h3>BRANCH:-C.S.E.</h3> 
+<h3> CONTECT NO.:-7081840610</h3>
+<h3> EMAIL :-vivekchauhan982000@gmail.com</h3>
+</hr>
+</list>
+<hr>
+<h2><u>OBJECTIVE</u></h2><p font size="5"> To obtain a position that will enable me to my strong
+<a.href="org.html">Organizational Skills</a>
+<a.href="edu.html">Educational background</a>
+and ability to work well with <a.href="people html"> Experienced People</a></p>
+</hr>
+</body> 
+<hr>
+<h2><u> EDUCATIONAL DETAILS</h2></u>
+<table>
+<tr>
+<table border="1" cellpadding="20" cellspacing="10"><tr bgcolor="white">
+<th>SR. NO.</th><th>EXAMINATION</th><th>BOARD/UNIVERSITY</th><th>YEAR</th><th>PERCENTAGE</th>
+</tr>
+<tr>
+<td>1</td><td>HIGH SCHOOL</td><td>UP BOARD</td><td>2015</td><td>73%</td>
+</tr>
+<tr>
+<td>2</td><td>INTERMIDEATE</td><td>UP BOARD</td><td>2017</td><td>70%</td>
+</tr>
+<tr>
+<td>3</td><td>B.TECH</td><td>AKTU</td><td>2021</td><td>90%</td>
+</tr>
+</table>
+</hr
+<hr>
+<h2><u>LANGUAGE KNOWLADGE</u></h2>
+<table border="1" cellspacing="1" cellpadding="5">
+<tr>
+<td><ul type="squre"><li>Python</li></tr>
+<tr><td><ul type="squre"><li>C</li></tr>
+<tr><td><ul type="squre"><li>C++</li>
+</tr>
+</table>
+</hr>
+<hr>
+<h2><u>FROM</u></h2>
+<h3>NAME:- VIVEK CHAUHAN</h3>
+<h3>ADDRESS:-DUBEPUR NUWAWA AMETHI AMETHI UP<h3>
+<h3>PIN CODE:-227405<h3>
+</hr>
+
+
+
+
+</head>
+
+
+
+
+
+
+</html>
